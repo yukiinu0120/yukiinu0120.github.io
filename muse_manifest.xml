@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yukiinu.com" resolutions="1x,2x" timestamp="1610900144761">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yukiinu.com" resolutions="1x,2x" timestamp="1610900579411">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="original.css" crc="178003658" ref="original"/>
@@ -529,6 +529,6 @@
   <file name="3danimation.html" crc="440016424" seo="true" mt="1610898305166" redirect="true"/>
   <file name="mayday.html" crc="526947705" seo="true" mt="1610895020167" redirect="true"/>
   <file name="game.html" crc="4291779499" seo="true" mt="1610900113052" redirect="true"/>
-  <file name="miss.html" crc="3910882397" seo="true" mt="1610895020172" redirect="true"/>
+  <file name="miss.html" crc="4284152553" seo="true" mt="1610900554236" redirect="true"/>
   <file name="other.html" crc="3926700380" seo="true" mt="1610895020179" redirect="true"/>
 </manifest>
