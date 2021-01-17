@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yukiinu.com" resolutions="1x,2x" timestamp="1610895706720">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yukiinu.com" resolutions="1x,2x" timestamp="1610898348096">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="original.css" crc="178003658" ref="original"/>
@@ -6,7 +6,7 @@
     <file name="other.css" crc="4210672302" ref="other"/>
     <file name="mayday.css" crc="531189308" ref="mayday"/>
     <file name="miss.css" crc="53805502" ref="miss"/>
-    <file name="3danimation.css" crc="65834980" ref="3danimation"/>
+    <file name="3danimation.css" crc="463409164" ref="3danimation"/>
     <file name="game.css" crc="254372890" ref="game"/>
     <file name="fanart.css" crc="382915059" ref="fanart"/>
   </folder>
@@ -93,8 +93,8 @@
     <file name="u516-4_2x.png" crc="4127545768" ref="3danimation"/>
     <file name="u519-4.png" crc="381930579" ref="3danimation"/>
     <file name="u519-4_2x.png" crc="3915558417" ref="3danimation"/>
-    <file name="u522-4.png" crc="150450299" ref="3danimation"/>
-    <file name="u522-4_2x.png" crc="4245915754" ref="3danimation"/>
+    <file name="u522-4.png" crc="198841724" ref="3danimation"/>
+    <file name="u522-4_2x.png" crc="20797299" ref="3danimation"/>
     <file name="111.jpg" crc="462658438" seo="true" ref="3danimation">
       <caption webpage="3danimation" alt=""/>
     </file>
@@ -111,8 +111,8 @@
     </file>
     <file name="u1896-4.png" crc="4061967802" ref="3danimation"/>
     <file name="u1896-4_2x.png" crc="4223367954" ref="3danimation"/>
-    <file name="u1899-4.png" crc="14282825" ref="3danimation"/>
-    <file name="u1899-4_2x.png" crc="14725096" ref="3danimation"/>
+    <file name="u1899-4.png" crc="3811412327" ref="3danimation"/>
+    <file name="u1899-4_2x.png" crc="359560583" ref="3danimation"/>
     <file name="2021-01-17 (7).png" crc="4022184666" seo="true" ref="3danimation">
       <caption webpage="3danimation" alt=""/>
     </file>
@@ -526,7 +526,7 @@
   <file name="index.html" crc="4155901226" seo="true" mt="1610895033420" redirect="true"/>
   <file name="original.html" crc="373293893" seo="true" mt="1610894904012" redirect="true"/>
   <file name="fanart.html" crc="432042545" seo="true" mt="1610895020177" redirect="true"/>
-  <file name="3danimation.html" crc="3973562120" seo="true" mt="1610894950867" redirect="true"/>
+  <file name="3danimation.html" crc="440016424" seo="true" mt="1610898305166" redirect="true"/>
   <file name="mayday.html" crc="526947705" seo="true" mt="1610895020167" redirect="true"/>
   <file name="game.html" crc="89706558" seo="true" mt="1610895020170" redirect="true"/>
   <file name="miss.html" crc="3910882397" seo="true" mt="1610895020172" redirect="true"/>
