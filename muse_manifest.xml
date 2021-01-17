@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yukiinu.com" resolutions="1x,2x" timestamp="1610898865470">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yukiinu.com" resolutions="1x,2x" timestamp="1610900144761">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="original.css" crc="178003658" ref="original"/>
@@ -7,7 +7,7 @@
     <file name="mayday.css" crc="531189308" ref="mayday"/>
     <file name="miss.css" crc="53805502" ref="miss"/>
     <file name="3danimation.css" crc="463409164" ref="3danimation"/>
-    <file name="game.css" crc="3985004358" ref="game"/>
+    <file name="game.css" crc="12235622" ref="game"/>
     <file name="fanart.css" crc="382915059" ref="fanart"/>
   </folder>
   <folder name="scripts">
@@ -516,10 +516,10 @@
     </file>
     <file name="u1975-4.png" crc="20191140" ref="other"/>
     <file name="u1975-4_2x.png" crc="61619191" ref="other"/>
-    <file name="_xia-1_mh1603082432989.jpg" crc="3814329866" seo="true" ref="game">
+    <file name="xia1mh160.jpg" crc="47635972" seo="true" ref="game">
       <caption webpage="game" alt=""/>
     </file>
-    <file name="_xia-1_mh1603082432989_2x.jpg" crc="243992798" seo="true" ref="game">
+    <file name="xia1mh160_2x.jpg" crc="451151203" seo="true" ref="game">
       <caption webpage="game" alt=""/>
     </file>
   </folder>
@@ -528,7 +528,7 @@
   <file name="fanart.html" crc="432042545" seo="true" mt="1610895020177" redirect="true"/>
   <file name="3danimation.html" crc="440016424" seo="true" mt="1610898305166" redirect="true"/>
   <file name="mayday.html" crc="526947705" seo="true" mt="1610895020167" redirect="true"/>
-  <file name="game.html" crc="169520613" seo="true" mt="1610898841647" redirect="true"/>
+  <file name="game.html" crc="4291779499" seo="true" mt="1610900113052" redirect="true"/>
   <file name="miss.html" crc="3910882397" seo="true" mt="1610895020172" redirect="true"/>
   <file name="other.html" crc="3926700380" seo="true" mt="1610895020179" redirect="true"/>
 </manifest>
